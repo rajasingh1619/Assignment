@@ -1,4 +1,4 @@
-**Wipro Training Assignment**
+
 **File Naming Convention**
 I have named the Pdf file in the following Format : "Day(Assignment-Topic).pdf" 
 **for Example :** Day-01(Assignment-TopicName).pdf
